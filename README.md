@@ -8,12 +8,12 @@ This output was used to write a report which analyzed the trends.
 Created using Python with NumPy, Matplotlib, and Pandas.
 
 
-![Figure 1] (https://github.com/sagar-13/MeaslesVisualization/blob/master/images/Figure_1.png)
-![Figure 2](https://github.com/sagar-13/MeaslesVisualization/blob/master/images/Figure_2.png)
-![Figure 3](https://github.com/sagar-13/MeaslesVisualization/blob/master/images/Figure_3.png)
-![Figure 4](https://github.com/sagar-13/MeaslesVisualization/blob/master/images/Figure_4.png)
-![Figure 5](https://github.com/sagar-13/MeaslesVisualization/blob/master/images/Figure_5.png)
-![Figure 6](https://github.com/sagar-13/MeaslesVisualization/blob/master/images/Figure_6.png)
-![Figure 7](https://github.com/sagar-13/MeaslesVisualization/blob/master/images/Figure_7.png)
-![Figure 8](https://github.com/sagar-13/MeaslesVisualization/blob/master/images/Figure_8.png)
-![Figure 9](https://github.com/sagar-13/MeaslesVisualization/blob/master/images/Figure_9.png)
+<img alt="Figure 1" src="images/Figure_1.png" />
+<img alt="Figure 2" src="images/Figure_2.png" />
+<img alt="Figure 3" src="images/Figure_3.png" />
+<img alt="Figure 4" src="images/Figure_4.png" />
+<img alt="Figure 5" src="images/Figure_5.png" />
+<img alt="Figure 6" src="images/Figure_6.png" />
+<img alt="Figure 7" src="images/Figure_7.png" />
+<img alt="Figure 8" src="images/Figure_8.png" />
+<img alt="Figure 9" src="images/Figure_9.png" />
